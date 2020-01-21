@@ -1,0 +1,14 @@
+{
+  "description": "string",
+  "effort": 0,
+  "finished": "2018-10-31",
+  "isOvertime": true,
+  "issueId": "string",
+  "owner": {},
+  "projectUUID": "string",
+  "started": "2018-10-31",
+  "tagIds": [
+    0
+  ],
+  "taskId": 0
+}
