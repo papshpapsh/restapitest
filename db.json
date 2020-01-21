@@ -1,5 +1,6 @@
-{
-  "description": "string",
+[
+  {
+  "description": "string description 1",
   "effort": 0,
   "finished": "2018-10-31",
   "isOvertime": true,
@@ -11,4 +12,36 @@
     0
   ],
   "taskId": 0
-}
+  },
+    {
+  "description": "string description 2",
+  "effort": 0,
+  "finished": "2018-10-31",
+  "isOvertime": false,
+  "issueId": "string",
+  "owner": {},
+  "projectUUID": "string",
+  "started": "2018-10-31",
+  "tagIds": [
+    0
+  ],
+  "taskId": 0
+  },
+
+    {
+  "description": "string description 3",
+  "effort": 0,
+  "finished": "2018-10-31",
+  "isOvertime": false,
+  "issueId": "string",
+  "owner": {},
+  "projectUUID": "string",
+  "started": "2018-10-31",
+  "tagIds": [
+    0
+  ],
+  "taskId": 0
+  },
+
+
+]
